@@ -1,0 +1,12 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.test1{
+  background-color: yellowgreen;
+}
+.test2{
+  background-color: aquamarine;
+}
